@@ -3,3 +3,7 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.subscribe-link{
+    color: #808080; 
+}
