@@ -12,6 +12,10 @@
     padding: 15px;
 }
 
-.category-tag {
+.category-tag-1 {
     color: blue;
+}
+
+.category-tag-2 {
+    color: green;
 }
