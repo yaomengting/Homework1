@@ -14,3 +14,11 @@
     flex: 1;
     padding: 20px;
 }
+
+.p-summary{
+    margin-bottom: 25px;
+}
+
+.p-has-borderline{
+    border: 1px solid #e0e0e0;
+}
