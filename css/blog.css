@@ -35,3 +35,8 @@
 .p-has-borderline{
     border: 3px solid #e0e0e0;
 }
+
+pre {
+    border: 1px solid #e0e0e0; /* This applies a 1px solid black border */
+  
+}
