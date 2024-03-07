@@ -1,9 +1,16 @@
 footer {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 20px 0 0 0;
+    color: lightslategray;
 }
 
 footer a {
     margin-left: 5px; /* Adjust the value as needed */
+}
+
+.design-system{
+    margin-top: 10px;
 }
