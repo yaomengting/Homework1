@@ -40,3 +40,23 @@ pre {
     border: 1px solid #e0e0e0; /* This applies a 1px solid black border */
   
 }
+
+.navigation-buttons{
+    display: flex;
+    gap:10px;
+    margin-top: 50px;
+}
+
+button{
+    border-radius: 20px;
+    border: 1px solid lightskyblue;
+    color: lightskyblue;
+    padding: 5px 10px;
+    background-color: white;
+}
+
+.button-newer{
+    color: lightgray;
+    border: 1px solid lightgrey;
+    background-color: white;
+}
