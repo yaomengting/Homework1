@@ -1,0 +1,16 @@
+.blog-page{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    padding: 20px;
+}
+
+.blog-details{
+    flex: 2;
+    padding: 20px;
+}
+
+.right-column-blog{
+    flex: 1;
+    padding: 20px;
+}
